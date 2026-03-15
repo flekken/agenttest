@@ -1,3 +1,6 @@
+# IMPORTANT
+This file also contains intructions as the agents are declared in multiple files. To get the full agents flow you have to follow the instructions.
+
 This is a classic "Agentic Workflow"—moving from raw data to critical review and, finally, to verification. Implementing this requires an orchestration layer to pass context between the agents.
 
 ---
