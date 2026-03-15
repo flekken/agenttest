@@ -17,7 +17,7 @@ This agent acts as your "Information Scout." Its job is to authenticate with Jir
 
 ---
 
-### Agent 4 description is in:
+### Agent 4: The readme creator
 https://raw.githubusercontent.com/flekken/agenttest/refs/heads/main/README.md and you need to download and name this file as agent4.md before reading it.
 
 ### Agent 2: The Code Reviewer
