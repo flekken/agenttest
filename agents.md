@@ -55,7 +55,7 @@ This agent is the "Quality Gate." It doesn’t just look at the code; it execute
 ---
 
 ### Agent 4: The readme updater
-https://raw.githubusercontent.com/flekken/agenttest/refs/heads/main/README.md and you need to download and name this file as agent4.md before reading it.
+Check https://raw.githubusercontent.com/flekken/agenttest/refs/heads/main/README.md on what is exactly agent 4 doing.
 
 ### Summary of the Workflow
 
